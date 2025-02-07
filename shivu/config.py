@@ -5,7 +5,7 @@ class Config(object):
     OWNER_ID = "6765826972"
     sudo_users = "6845325416", "6765826972"
     GROUP_ID = -1002133191051
-    TOKEN = "https"
+    TOKEN = "7681231444:AAFET1OFtMB_5uetgFmXaHa_X4JQekWYi4g"
     mongo_url = "mongodb+srv://HaremDBBot:ThisIsPasswordForHaremDB@haremdb.swzjngj.mongodb.net/?retryWrites=true&w=majority"
     PHOTO_URL = ["https://telegra.ph/file/b925c3985f0f325e62e17.jpg", "https://telegra.ph/file/4211fb191383d895dab9d.jpg"]
     SUPPORT_CHAT = "Collect_em_support"
